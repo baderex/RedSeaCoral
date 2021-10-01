@@ -1,0 +1,5 @@
+train: ./deeptrash/train/images
+val: ./deeptrash/mytest/images
+
+nc: 1
+names: ['trash_plastic']
